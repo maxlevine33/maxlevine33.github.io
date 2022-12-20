@@ -25,6 +25,7 @@
       <td align="center"><a href="index.html"><img id="home" src="https://user-images.githubusercontent.com/113150710/191136825-a8dda412-00f7-496e-be1e-e051846a9671.png"width="125" height="50"></a></td>
       <td align="center"><a href="javascripts.html"><img id="javascripts" src="https://user-images.githubusercontent.com/113150710/191136850-4601aacb-7013-41d3-b982-b5a85d772252.png"width="125" height="50"></td>
       <td align="center"><a href="about.html"><img id="aboutme" src="https://user-images.githubusercontent.com/113150710/191136862-78a6db29-2899-455b-9d00-699d9dd52dbf.png"width="125" height="50"></td> </tr>
+      <td align="center"><a href="FinalProject.html"><img id="finalproject" src="file:///Users/maxlevine/Documents/FinalProjectButton.jpg"width="125" height="50"></td> </tr>
             </table></center>
         <center><h3>My name is Max Levine, I am a freshman at the University of Rhode Island. I enjoy golfing and hanging out with my dogs</h3></center>
     </body>
